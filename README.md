@@ -2,8 +2,8 @@ A file browser similar to midnight commander. But it has extremely few dependenc
 
 CONTROLS:
 
-SPACE - EXECUTE PROGRAM
-ENTER - GO TO DIR / OPEN FILE (WITH PROGRAM)
+SPACE - EXECUTE PROGRAM (WITH './')
+ENTER - GO TO DIR / OPEN FILE (WITH 'nano')
 
 ESC - QUIT
 
