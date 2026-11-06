@@ -16,6 +16,9 @@ E - REMOVE FILE/FOLDER - REMOVE FILE (USING 'rm 'file'') / REMOVE FOLDER (USING 
 How to build Midnight Club
 
 clang/llvm/gcc are all available compilers. Practically anything counts here. But if you are a beginner, You just do this on the terminal:
+
 gcc main.c -o midnight-club
+
 ./midnight-club
+
 Do this in /src
