@@ -22,6 +22,10 @@ S - CREATE FOLDER (Standalone)
 
 D - RENAME OBJECT (Standalone)
 
+Z - EXECUTE A COMMAND (Standalone ( does not use system() ) )
+
+X - EXECUTE A PREVIOUS COMMAND (Standalone)
+
 OBJECT = Filesystem Object, File, OR Directory.
 
 How to build Midnight Club
