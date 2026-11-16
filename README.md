@@ -1,4 +1,5 @@
-A file browser similar to midnight commander. But it has extremely few dependencies.
+A file browser similar to midnight commander.
+The only dependency is linux.
 
 SPACE - EXECUTE PROGRAM
 ENTER - GO TO DIR / OPEN FILE (WITH PROGRAM)
