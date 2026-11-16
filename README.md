@@ -22,9 +22,9 @@ S - CREATE FOLDER (Standalone)
 
 D - RENAME OBJECT (Standalone)
 
-Z - EXECUTE A COMMAND (Standalone ( does not use system() ) )
+Z - EXECUTE A COMMAND ( Standalone (uses system()) )
 
-X - EXECUTE A PREVIOUS COMMAND (Standalone)
+X - EXECUTE A PREVIOUS COMMAND ( Standalone (uses system()) )
 
 OBJECT = Filesystem Object, File, OR Directory.
 
